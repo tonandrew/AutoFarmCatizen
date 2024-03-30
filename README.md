@@ -11,7 +11,9 @@ Access the **Telegram** webview inspection console ([guide on how to do it](http
 
 Paste the following command into the command prompt:
 
-```fetch('https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_AutoFarmCatizen_telegramwebviewscript.js').then(response => response.text()).then(script => eval(script));```
+```javascript
+var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_AutoFarmCatizen_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
+```
 
 ## What this script does:
 * Automatically merges cats for you
