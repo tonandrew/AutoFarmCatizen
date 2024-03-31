@@ -21,8 +21,8 @@ If you want a more optimized and user-friendly experience with the script, you c
 ```javascript
 var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_OAFC_v5.0_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
 ```
- - Now you only have to fetch the link (execute the script) and click that "Auto" button when you need some auto merging.
-  * More info in the OAFC v5.0 release commit description.
+ * Now you only have to fetch the link (execute the script) and click that "Auto" button when you need some auto merging.
+   - More info in the OAFC v5.0 release commit description.
 
 
 ## What this script does:
