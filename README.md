@@ -43,7 +43,7 @@ var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/A
 
 ## What this script does:
 * Automatically merges cats for you
-  - Or enables the "Auto" button (depends on the file you're fetching)
+  - Or enables the "Auto" button and automatically uses free boost on cooldown (depends on the file you're fetching)
 * Automatically opens airdrops with cats
 * Mutes all the game sounds that you may find annoying or disturbing
 
