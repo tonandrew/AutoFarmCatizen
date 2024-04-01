@@ -6,10 +6,26 @@
 You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3
 ...and get rewarded for doing so.
 
+## Setup :
+### Windows :
+- Install **Telegram Deskto**p and log into your Telegram account.
+- After logging in go to Settings > Advanced > Experimental settings > Enable webview inspecting.
+- Reopen your **Telegram Desktop**.
+- Open [webview mode](https://telegra.ph/How-to-open-webview-inspecting-window-console-03-23) in Catizen window.
+- press `Ctrl + Shift + i` to open console.
+
+### On Mac :
+- Install **Telegram Desktop** and log into your Telegram account.
+- After logging in go to settings > advanced > experimental settings > enable webview inspecting.
+- Reopen your **Telegram Desktop**.
+- Open [webview mode](https://telegra.ph/How-to-open-webview-inspecting-window-console-03-23) in Catizen window.
+- Open Safari > Develop > Your macbook device > Telegram > game.catizen.ai, it will open Telegram's webview inspector.
+
 ## Installation (Execution)
 Access the **Telegram** webview inspection console ([guide on how to do it](https://telegra.ph/How-to-open-webview-inspecting-window-console-03-23))
 
 Paste the following command into the command prompt:
+
 
 ```javascript
 var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_AutoFarmCatizen_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
@@ -23,7 +39,7 @@ var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/A
 ```
  * Now you only have to fetch the link (execute the script) and click that "Auto" button when you need some auto merging.
    - More info in the OAFC v5.0 release commit description.
-
+ * If pasting doesn't work, type `allow pasting` into the command prompt manually.
 
 ## What this script does:
 * Automatically merges cats for you
