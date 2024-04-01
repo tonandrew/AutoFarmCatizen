@@ -31,7 +31,7 @@ Paste the following command into the command prompt:
 var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_AutoFarmCatizen_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
 ```
 
-## Alternative version
+## Alternative version (OAFC v5.0)
 If you want a more optimized and user-friendly experience with the script, you can use the following command instead of the main one:
 
 ```javascript
