@@ -6,15 +6,15 @@
 You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3
 ...and get rewarded for doing so.
 
-## Setup :
-### Windows :
+## Setup
+### Windows
 - Install **Telegram Deskto**p and log into your Telegram account.
 - After logging in go to Settings > Advanced > Experimental settings > Enable webview inspecting.
 - Reopen your **Telegram Desktop**.
 - Open [webview mode](https://telegra.ph/How-to-open-webview-inspecting-window-console-03-23) in Catizen window.
 - press `Ctrl + Shift + i` to open console.
 
-### On Mac :
+### Mac
 - Install **Telegram Desktop** and log into your Telegram account.
 - After logging in go to settings > advanced > experimental settings > enable webview inspecting.
 - Reopen your **Telegram Desktop**.
