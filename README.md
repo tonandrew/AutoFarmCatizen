@@ -41,11 +41,17 @@ var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/A
    - More info in the OAFC v5.0 release commit description.
  * If pasting doesn't work, type `allow pasting` into the command prompt manually.
 
-## What this script does:
+# What this script does:
+## Normal (Default) version
 * Automatically merges cats for you
-  - Or enables the "Auto" button and automatically uses free boost on cooldown (depends on the file you're fetching)
 * Automatically opens airdrops with cats
 * Mutes all the game sounds that you may find annoying or disturbing
+
+## Optimized version (OAFC v5.0)
+* Enables the "Auto" button, which includes
+   - Auto cats merging
+   - Automatically using free boost on cooldown
+   - Auto purchasing cats when you have enough money
 
 Known issues:
 
