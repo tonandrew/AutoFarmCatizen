@@ -4,7 +4,9 @@
 
 ### 💖 Friendly Reminder
 You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3
-...and get rewarded for doing so.
+(source code of the scripts can be found there as well)
+
+Also accepting payments in TON (contact me in telegram [@rxznrtxkcx](https://t.me/rxznrtxkcx))
 
 ## Setup
 ### Windows
