@@ -29,7 +29,7 @@ Paste the following command into the command prompt:
 
 
 ```javascript
-var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_AutoFarmCatizen_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
+// This version is currently outdated, use OAFC 5.0 from below.
 ```
 
 ## Alternative version (OAFC v5.0)
