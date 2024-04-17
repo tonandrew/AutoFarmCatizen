@@ -7,7 +7,7 @@ You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3 _(sou
 
   └     Also accepting payments in TON (contact me in **Telegram** [@rxznrtxkcx](https://t.me/rxznrtxkcx))
 
-### ⚠️ Attention
+# ⚠️ Attention
 This script is only supported in the **Desktop** version of **Telegram**. It is **not intended for the web version**, so you may encounter bugs and/or errors.
 
 ## Setup
