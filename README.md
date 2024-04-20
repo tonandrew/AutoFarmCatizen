@@ -7,6 +7,9 @@ You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3 _(sou
 
   └     Also accepting payments in TON (contact me in **Telegram** [@rxznrtxkcx](https://t.me/rxznrtxkcx))
 
+# ⛔ Warning
+[A recent statement from Catizen Announcement telegram channel](https://i.imgur.com/QlxZWfQ.jpeg) declares that users can get removed from the airdrop whitelist for using scripts or "other cheats". From now on, you are using the script completely at your own risk, as safety of your Catizen account's airdrop validity is not guaranteed.
+
 # ⚠️ Attention
 This script is only supported in the **Desktop** version of **Telegram**. It is **not intended for the web version**, so you may encounter bugs and/or errors.
 
