@@ -63,9 +63,6 @@ var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/A
    - Automatically using free boost on cooldown
    - Auto purchasing cats when you have enough money
 
-Known issues:
+## Known issues:
 
-      None!
-
-  * ~~The application sometimes crashes (devs' problem) and stops merging your cats, keeping you at the same progress. I have no current solution for this, the only hope is that the devs fix it on their side.~~
-      - (seems to be fixed in the [main](https://github.com/RGB-Outl4w/Catizenfarm/blob/rel/release_AutoFarmCatizen_telegramwebviewscript.js) version)
+  * The game was recently updated and some things have changed, so I have to find another way of accessing them.
