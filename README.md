@@ -33,33 +33,17 @@ Access the **Telegram** webview inspection console ([guide on how to do it](http
 
 Paste the following command into the command prompt:
 
-
 ```javascript
-// This version is currently outdated, use OAFC 5.0 from below.
+var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_OAFC_v5.1_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
 ```
-
-## Alternative version (OAFC v5.0)
-If you want a more optimized and user-friendly experience with the script, you can use the following command instead of the main one:
-
-```javascript
-var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_OAFC_v5.0_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
-```
- * Now you only have to fetch the link (execute the script) and click that "Auto" button when you need some auto merging.
-   - More info in the OAFC v5.0 release commit description.
+ * Now you only need to fetch the link (execute the script) and the magic will begin.
  * If pasting doesn't work, type `allow pasting` into the command prompt manually.
 
 # What this script does:
-## Normal (Default) version
-* Automatically merges cats for you
-* Automatically opens airdrops with cats
-* Mutes all the game sounds that you may find annoying or disturbing
-
-## Optimized version (OAFC v5.0)
 * Enables the "Auto" button, which includes
    - Auto cats merging
    - Automatically using free boost on cooldown
    - Auto purchasing cats when you have enough money
 
 ## Known issues:
-
-  * The game was recently updated and some things have changed, so I have to find another way of accessing them.
+```None```
