@@ -3,9 +3,9 @@
 ![Catizen logo](https://catizen.ai/static/images/index-logo-mobile.png)
 
 ### 💖 Friendly Reminder
-You can support me on [boosty](https://boosty.to/rgboutlaw) if you wish <3 _(source code of the scripts can be found there as well)_
+You can support me on [boosty](https://t.me/notspx_bot) if you wish <3 _(source code of the scripts can be found there as well)_
 
-  └     Also accepting payments in TON ([in **Telegram**](https://t.me/rgbnetaltpayment))
+  └     Also accepting payments in TON ([in **Telegram**](https://t.me/notspx_bot))
 
 # ⛔ Warning
 [A recent statement from Catizen Announcement telegram channel](https://i.imgur.com/QlxZWfQ.jpeg) declares that users can get removed from the airdrop whitelist for using scripts or "other cheats". From now on, you are using the script completely at your own risk, as safety of your Catizen account's airdrop validity is not guaranteed.
